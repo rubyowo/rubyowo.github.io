@@ -1,4 +1,4 @@
 {
-  "m.homeserver": { "base_url": "https://silly.rubyowo.me" },
+  "m.homeserver": { "base_url": "https://silly.whoison.top" },
   "m.identity_server": { "base_url": "https://vector.im" }
 }
